@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/auc/kyungtae_python/CatchGame-QLearningExample-TensorFlow/model.ckpt"
+all_model_checkpoint_paths: "/home/auc/kyungtae_python/CatchGame-QLearningExample-TensorFlow/model.ckpt"
